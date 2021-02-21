@@ -10,7 +10,9 @@ https://nodejs.org/fr/
 
 npm install express
 
-# Installation de Nodemon(relance automatiquement votre serveur node à chaque fois que vous sauvegardez votre fichier)
+# Installation de Nodemon
+
+(relance automatiquement votre serveur node à chaque fois que vous sauvegardez votre fichier)
 
 npm install nodemon 
 
