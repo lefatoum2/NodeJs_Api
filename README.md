@@ -148,3 +148,10 @@ app.listen(port, () => console.log(`Server started on port ${port}`));
 const usersRouter = require('./user');
 app.use('/users', usersRouter);
 ```
+
+## Running 
+
+
+```
+nodemon index.js
+```
