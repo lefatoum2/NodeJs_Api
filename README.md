@@ -1,4 +1,7 @@
 
+## Contexte
+Créatio d'une API simple sans token.
+
 ## Installation
 ```
 npm init -y
